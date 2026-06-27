@@ -1,0 +1,6 @@
+{
+  "name": "공정거래 시험 공부 앱",
+  "description": "공정거래위원회 역할, 사건 처리 절차, 갑을관계 4대 법률(가맹사업법, 하도급법, 대규모유통업법, 대리점법)을 효과적으로 학습할 수 있는 종합 시험 공부 앱입니다. 핵심 요약, OX/객관식 퀴즈, 실전 모의고사, 오답노트, 그리고 AI 법률 튜터를 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
